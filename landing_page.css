@@ -1,0 +1,88 @@
+body{
+    
+    /* font-family: 'DM Sans', sans-serif; */
+    background: url(https://images.wallpaperscraft.com/image/single/building_architecture_black_197503_1920x1080.jpg);
+    background-size: 105%;
+    /* background-repeat: no-repeat; */
+    color: white;
+    margin: 0px;
+}
+header{
+    margin: 0% 2%;
+}
+
+
+
+nav{
+    /* border: 2px solid black; */
+    float: right;
+    margin-top: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    /* border: 2px solid blue; */
+    /* display: inline; */
+}
+
+.logo{
+    /* border: 2px solid blue; */
+    float: left;
+    width: 150px;
+    height: 50px;
+    
+}
+
+.links{
+    float: right;
+
+    
+    
+}
+.links a{
+    color: white;
+    float: right;
+    text-decoration: none;
+    font-size: medium;
+    margin-right: 15px;
+    /* color: beige; */
+
+}
+
+.links a:hover{
+    font-size: large;
+    text-decoration: underline;
+}
+
+main div{
+    
+    text-align: center;
+    margin-top: 10%;
+    
+    font-size: larger;
+
+    
+}
+
+strong{
+    font-size: xx-large;
+    
+}
+
+.button{
+    font-family: 'DM Sans', sans-serif ;
+    background: rgba(255, 255, 255, 0.13);
+    color: white;
+    border: 0px;
+    height: 50px;
+    width: 200px;
+    cursor: pointer;
+    border-radius: 30px;
+    curs
+}
+
+.button:hover{
+    color: black;
+    /* font-size: medium; */
+}
+
